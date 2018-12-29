@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`not found 1`] = `
+<div>
+  <h2>
+    Home
+  </h2>
+  <Connect(ListExpenses) />
+</div>
+`;
