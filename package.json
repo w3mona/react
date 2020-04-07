@@ -52,6 +52,6 @@
     "live-server": "^1.2.0",
     "react-test-renderer": "15.6.1",
     "serve": "live-server public/",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "3.1.11"
   }
 }
